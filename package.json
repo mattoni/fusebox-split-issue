@@ -17,13 +17,14 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-3-preview#readme",
   "devDependencies": {
-    "fuse-box": "^3.0.0-next.13",
+    "fuse-box": "^3.0.0-next.25",
     "tslib": "^1.8.0",
     "typescript": "^2.6.1",
     "uglify-js": "^3.1.9"
   },
   "dependencies": {
     "fuse-ts-raw-package": "^1.0.2",
+    "jwt-decode": "^2.2.0",
     "moment": "^2.19.2"
   }
 }
